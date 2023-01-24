@@ -1,0 +1,294 @@
+body {
+  line-height: normal;
+}
+.just {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.it,
+body {
+  margin: 0;
+}
+.just-do-it-container {
+  position: absolute;
+  top: 30px;
+  left: 676px;
+  font-size: 250px;
+  font-family: var(--font-candal);
+  color: #d84b19;
+  display: inline-block;
+  width: 818px;
+  height: 1041px;
+  opacity: 0.1;
+}
+.men,
+.sale,
+.snkrs,
+.women {
+  position: absolute;
+  top: 8px;
+  left: 162px;
+  font-weight: 600;
+}
+.sale,
+.snkrs,
+.women {
+  left: 309px;
+}
+.sale,
+.snkrs {
+  left: 490px;
+}
+.snkrs {
+  left: 642px;
+}
+.vector-icon {
+  position: absolute;
+  height: 100%;
+  width: 7.89%;
+  top: 0;
+  right: 92.11%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-bar {
+  position: absolute;
+  top: 75px;
+  left: 56px;
+  width: 710px;
+  height: 32px;
+  font-size: var(--font-size-base);
+}
+.divider-icon,
+.divider-icon1 {
+  position: absolute;
+  top: 163.5px;
+  left: 0;
+  width: 1474px;
+  height: 2px;
+}
+.divider-icon1 {
+  top: 848.5px;
+}
+.hero-elements-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 483px;
+  left: 196px;
+  border-radius: 26.5px;
+  box-shadow: 5px 9px 40px rgba(0, 0, 0, 0.15);
+  width: 159px;
+  height: 53px;
+}
+.nike-air-max {
+  position: absolute;
+  top: 0;
+  left: 5.37px;
+}
+.add-to-cart,
+.lebagh {
+  position: absolute;
+  top: 49.44px;
+  left: 0;
+  font-size: 88.81px;
+  font-weight: 300;
+  color: #f18756;
+}
+.add-to-cart {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 498px;
+  left: 220px;
+  font-size: 19px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: #070707;
+  text-align: left;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  top: 483px;
+  left: 5px;
+  font-size: 40px;
+  font-weight: 300;
+  font-family: var(--font-roboto-slab);
+  color: #1c1b1b;
+}
+.span {
+  letter-spacing: -0.01em;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 166.58px;
+  left: 5.37px;
+  font-size: 21.83px;
+  line-height: 128.02%;
+  text-align: justify;
+  display: inline-block;
+  width: 341.75px;
+}
+.hero-elements {
+  position: absolute;
+  top: 239px;
+  left: 112px;
+  width: 355.37px;
+  height: 536px;
+  font-size: 51.04px;
+}
+.extra-product-child {
+  position: absolute;
+  top: 102px;
+  left: 40px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 122px;
+  height: 99px;
+}
+.nike-air-one-container {
+  position: absolute;
+  top: 146px;
+  left: 49px;
+  letter-spacing: 0.01em;
+}
+.air-max-2x-shoe-wh9d6p-removeb-icon {
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  width: 197px;
+  height: 196.88px;
+  object-fit: cover;
+}
+.div1 {
+  position: absolute;
+  top: 161px;
+  left: 124px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.extra-product-child1,
+.extra-product-inner,
+.star-icon {
+  position: absolute;
+  top: 180px;
+  left: 51.17px;
+  width: 7px;
+  height: 7px;
+}
+.extra-product-child1,
+.star-icon {
+  left: 60.17px;
+}
+.extra-product-child1 {
+  left: 69.17px;
+}
+.add-btn-child,
+.extra-product-child2,
+.extra-product-child3 {
+  position: absolute;
+  top: 180px;
+  left: 78.17px;
+  width: 7px;
+  height: 7px;
+}
+.add-btn-child,
+.extra-product-child3 {
+  left: 87.17px;
+}
+.add-btn-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-200);
+  width: 27px;
+  height: 27px;
+}
+.material-symbolsadd-icon {
+  position: absolute;
+  top: 2.08px;
+  left: 2.08px;
+  width: 22.85px;
+  height: 22.85px;
+  overflow: hidden;
+}
+.add-btn,
+.extra-product {
+  position: absolute;
+  top: 182px;
+  left: 141px;
+  width: 27px;
+  height: 27px;
+}
+.extra-product {
+  top: 798px;
+  left: 11px;
+  width: 181px;
+  height: 209px;
+}
+.group-icon,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 181px;
+  height: 201px;
+}
+.group-icon {
+  top: 180px;
+  left: 51px;
+  width: 43px;
+  height: 7px;
+}
+.extra-product1,
+.extra-product2 {
+  position: absolute;
+  top: 795px;
+  left: 185px;
+  width: 181px;
+  height: 209px;
+}
+.extra-product2 {
+  left: 358px;
+}
+.shoe-1-icon,
+.shoe-2-icon {
+  position: absolute;
+  top: 0;
+  left: -131.58px;
+  width: 1104.58px;
+  height: 1024px;
+  object-fit: cover;
+}
+.shoe-2-icon {
+  left: 0;
+  width: 973px;
+}
+.shoe-image {
+  position: absolute;
+  top: 0;
+  left: 467px;
+  width: 1117.77px;
+  height: 1230.11px;
+}
+.desktop-1 {
+  position: relative;
+  border-radius: 55px;
+  background-color: #efefef;
+  border: 3px solid rgba(255, 255, 255, 0.6);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
